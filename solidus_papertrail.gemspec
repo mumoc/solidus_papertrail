@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.summary     = 'Solidus Papertrail integration'
   s.description = 'Views to see Order, Payment and Shipment Papertrail versions'
 
-  s.required_ruby_version = '~> 2.4'
+  s.required_ruby_version = '~> 3'
 
   s.author    = 'Acid Labs'
   s.email     = 'spree@acid.cl'
